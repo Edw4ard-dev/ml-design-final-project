@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/rusru/ML Final Project/ml-design-final-project/notebooks/mlruns/777897376147326178/models/m-36d9779cee9141caa096b646d2130c48/artifacts
+creation_timestamp: 1775766276297
+experiment_id: '777897376147326178'
+last_updated_timestamp: 1775766280978
+model_id: m-36d9779cee9141caa096b646d2130c48
+model_type: null
+name: log_reg_model_C_0_1
+source_run_id: 9fab43fab1664d8d8a1e62a075ac36f0
+status: 2
+status_message: null

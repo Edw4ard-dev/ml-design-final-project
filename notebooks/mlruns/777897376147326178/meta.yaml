@@ -1,0 +1,8 @@
+artifact_location: file:///c:/Users/rusru/ML Final Project/ml-design-final-project/notebooks/mlruns/777897376147326178
+creation_time: 1775766118119
+experiment_id: '777897376147326178'
+last_update_time: 1775766118119
+lifecycle_stage: active
+name: Spotify_Churn_Logistic_Regression
+trace_location: null
+workspace: default
