@@ -1,0 +1,23 @@
+artifact_path: file:///c:/Users/rusru/ML Final Project/ml-design-final-project/notebooks/mlruns/777897376147326178/models/m-0f680f2d40fa4f7bb040c6e1541bfdd1/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.11.1
+model_id: m-0f680f2d40fa4f7bb040c6e1541bfdd1
+model_size_bytes: 5028
+model_uuid: m-0f680f2d40fa4f7bb040c6e1541bfdd1
+prompts: null
+run_id: 1d8ba9f8bb8d4774909ca2ebf74f9f42
+utc_time_created: '2026-04-09 20:38:40.350984'
