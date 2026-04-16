@@ -17,7 +17,7 @@ Our system includes the following main components:
 ## Model Development
 Our team compared multiple logistic regression model configurations using MLflow. The final selected model was Model 2, which was chosen because it avoided data leakage while still providing realistic performance and detecting churn users. MLflow was used to track experiments, metrics, artifacts, and model versions throughout the project.
 
-## Contributors
+## List of Team Members
 - Megan Mattingly
 - Jeena Patel
 - Jessie Reynolds
