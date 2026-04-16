@@ -24,7 +24,3 @@ Our team compared multiple logistic regression model configurations using MLflow
 - Haley Phan
 - Edward Nguyen
   
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/haleypgit/ml-design-final-project.git
