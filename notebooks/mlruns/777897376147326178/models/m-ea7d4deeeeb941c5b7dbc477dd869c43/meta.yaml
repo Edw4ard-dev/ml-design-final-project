@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/rusru/ML Final Project/ml-design-final-project/notebooks/mlruns/777897376147326178/models/m-ea7d4deeeeb941c5b7dbc477dd869c43/artifacts
+creation_timestamp: 1776312187700
+experiment_id: '777897376147326178'
+last_updated_timestamp: 1776312194679
+model_id: m-ea7d4deeeeb941c5b7dbc477dd869c43
+model_type: null
+name: log_reg_clean_no_leakage_C_0_01
+source_run_id: cd01a301e85c488391207d15c16fa487
+status: 2
+status_message: null

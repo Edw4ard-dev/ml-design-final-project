@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/rusru/ML Final Project/ml-design-final-project/notebooks/mlruns/777897376147326178/3bf01d0e03ae414c878c1b3e24d88d9a/artifacts
+end_time: 1776312210822
+entry_point_name: ''
+experiment_id: '777897376147326178'
+lifecycle_stage: active
+run_id: 3bf01d0e03ae414c878c1b3e24d88d9a
+run_name: logreg_clean_no_leakage_C_10.0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776312205324
+status: 3
+tags: []
+user_id: rusru
