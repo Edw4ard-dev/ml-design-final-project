@@ -22,6 +22,6 @@ Our team compared multiple logistic regression model configurations using MLflow
 - Jeena Patel
 - Jessie Reynolds
 - Haley Phan
-- Edward Nguyen
+- Minh Binh Nguyen
   
-Edited by Minh Binh Nguyen
+
